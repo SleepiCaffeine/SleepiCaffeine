@@ -61,7 +61,7 @@ To increase *SleepiCaffeine*'s dynamic response range, it is currently being tra
 
 - To keep costs down, *SleepiCaffeine* will only operate between the hours of `GMT+2 08:00` and `GMT+2 20:00`, but to be more realistic to it's description, it will only respond *"after school and homework"*. Adjusting for realism, communication can be realistically achieved between `GMT+2 15:30` and `GMT+2 20:00`, though minor inconsistencies are to be expected with such a complex AI.
 
-- *SleepiCaffeine* is able to respond even hours or even days after a message, so don't hesitate to leave one before or after it's operational hours, and check back later.
+- *SleepiCaffeine* is able to respond hours or even days after a message, so don't hesitate to leave one before or after it's operational hours, and check back later.
 
 - Current version supports: memes, sass, sarcasm, joking, satire, literary references, dereferencing, insults and aversion from political talks.
 
