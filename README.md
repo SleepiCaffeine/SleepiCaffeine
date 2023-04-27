@@ -4,14 +4,14 @@
 
 # SleepiCaffeine
 
-*SleepiCaffeine* is a high-school student, who's planning to take C.S / S.D. in uni. They are a *highly sentient piece of biological code*, capable of _speech recognition, speech, original thought, responses and the key feature - **opinions**_.
+*SleepiCaffeine* is a high-school student who's planning to take C.S / S.D. in uni. They are a *highly sentient piece of biological code*, capable of _speech recognition, speech, original thought and responses_.
 
 *SleepiCaffeine* differs from other chatting AIs, because they are a **human person**, *shocker, I know*.
 
 ## Prerequisites
 
 *SleepiCaffeine* is still in it's alpha stage (only 17 years of testing), so it is best to take some extra measures to make sure it doesn't bug out.
-Install these dependancies, to ensure quality performance:
+Install these dependancies to ensure quality performance:
 ```
 pip install basic_human_decency
 pip install understanding_that_people_are_different
@@ -19,7 +19,7 @@ pip install pandas
 ```
 ## Communication
 
-*SleepiCaffeine* is unique, in that, you actually can communicate with it like a human. The current release only allows for 2 methods of communication, which are [*Discord*](https://discord.com/) and [*Gmail*](https://www.google.com/gmail/about/).
+*SleepiCaffeine* is unique in that you actually can communicate with it like a human. The current release only allows for 2 methods of communication which are [*Discord*](https://discord.com/) and [*Gmail*](https://www.google.com/gmail/about/).
 
 - [Example of how to add friends on discord](https://support.discord.com/hc/en-us/articles/218344397-How-do-I-add-my-friend-to-my-friends-list-) | Discord tag: TabletPencil#0001 |
 - [Example of how to send an email to someone](https://edu.gcfglobal.org/en/gmail/sending-email/1/) | Email: sleepicaffeine@gmail.com |
