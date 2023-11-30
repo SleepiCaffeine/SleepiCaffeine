@@ -69,7 +69,7 @@ To increase *SleepiCaffeine*'s dynamic response range, it is currently being tra
 
 Version updates happen annualy at November 25th, and to keep consistency, the version number is named after the amount of years it has been operating.
 
-Current version: v17
+Current version: v18
 
 ## Authors
 
